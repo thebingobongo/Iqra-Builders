@@ -1,21 +1,21 @@
-.c-wrapper{
-    background: rgb(235, 233, 233);
+.contact-wrapper{
+    background: var(--black);
 }
 
-.c-container{
+.contact-container{
     justify-content: space-around;
     gap: 1rem;
     flex-direction: row !important;
 }
-.c-container>img{
+.contact-container>img{
     width: 9rem;
 }
 
 @media (max-width:768px) {
-    .c-container{
+    .contact-container{
         flex-wrap: nowrap !important;
     }
-    .c-container>img{
+    .contact-container>img{
         width: calc(20% - 0.5rem);
         max-width: 100%; 
         }

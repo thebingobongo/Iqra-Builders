@@ -3,8 +3,8 @@ import './Companies.css'
 
 const Companies = () => {
   return (
-    <section className="c-wrapper">
-        <div className="paddings innerWidth flexCenter c-container">
+    <section className="contact-wrapper">
+        <div className="paddings innerWidth flexCenter contact-container">
             <img src='./10-years-experience.png' alt='' />
             <img src='./bahria-logo.png' alt='' />
             <img src='./dha-logo.png' alt='' />
