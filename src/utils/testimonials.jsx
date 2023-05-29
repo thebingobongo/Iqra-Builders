@@ -25,7 +25,7 @@ const data = [
       "Iqra Estate and Builders helped me find the perfect land plot for my investment. Professional and knowledgeable team!"
     },
     {
-      name: "Rubina Akhtar",
+      name: "Shahida Akhtar",
       location: "Bahria Town Phase 8",
       testimonial:
       "Iqra Estate and Builders exceeded my expectations with their fast building time. My house was built in 7 months. Impressive service!"

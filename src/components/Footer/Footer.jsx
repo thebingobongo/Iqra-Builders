@@ -18,9 +18,9 @@ const Footer = () => {
                 <span className='primaryText'>Information</span>
                 <span className='secondaryText'>
                     Raja Zafar Iqbal, CEO <br />
-                    +92 pakistan number, +1 canada number <br />
-                    email Here <br />
-                    Rawalpindi Pakistan
+                    +92 331-588-9777, +1 647-507-7252 <br />
+                    ziraja@email.com <br />
+                    Rawalpindi, Pakistan
                 </span>
 
 
@@ -28,9 +28,10 @@ const Footer = () => {
         </div>
 
         {/* promo at end */}
-        <div className="paddings innerWidth flexCenter f-promo">
+        <a href="mailto:sirajzafar0@gmail.com" className="paddings innerWidth flexCenter f-promo" >
             Built by Siraj Raja. Contact for info at sirajzafar0@gmail.com
-        </div>
+        </a>
+
     </section>
   )
 }
