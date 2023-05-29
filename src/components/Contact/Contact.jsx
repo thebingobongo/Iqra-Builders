@@ -58,10 +58,10 @@ const Contact = () => {
                                 </div>
                                 <div className="flexColStart detail">
                                     <span className='primaryText'>Send an Email</span>
-                                    <span className='secondaryText'>ziraja@email.com</span>
+                                    <span className='secondaryText'>ziraja72@gmail.com</span>
                                 </div>
                             </div>
-                            <a href="mailto:sirajzafar0@gmail.com" rel="noopener" className='flexCenter button'>
+                            <a href="mailto:ziraja72@gmail.com" rel="noopener" className='flexCenter button'>
                                 Email Now
                             </a>
                         </div>

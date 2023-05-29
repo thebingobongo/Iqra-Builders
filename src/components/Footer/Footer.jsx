@@ -19,7 +19,7 @@ const Footer = () => {
                 <span className='secondaryText'>
                     Raja Zafar Iqbal, CEO <br />
                     +92 331-588-9777, +1 647-507-7252 <br />
-                    ziraja@email.com <br />
+                    ziraja72@gmail.com <br />
                     Rawalpindi, Pakistan
                 </span>
 
