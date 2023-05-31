@@ -25,7 +25,9 @@ const Values = () => {
                 {/* left side */}
                 <div className="v-left">
                     <div className="image-container">
-                        <img src="./bahria-homes-2.jpg" alt="" />
+                    <img srcset="./bahria-homes-2-464w.jpg 464w, ./bahria-homes-2.jpg 882w"
+                    sizes="(min-width: 580px) 442px, calc(85.77vw - 34px)"
+                    src="./bahria-homes-2.jpg" alt=""/>
                     </div>
                 </div>
 

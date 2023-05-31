@@ -62,7 +62,13 @@ const hero = () => {
                 animate={{x:0, opacity:1}}
                 transition={{duration: 1, type:"ease-in"}}j
                 className="image-container">
-                    <img src="./bahria-home-1.jpg" alt="" />
+                    <img srcset="./bahria-home-1-464w.jpg 464w,
+                            ./bahria-home-1-928w.jpg 926w,
+                            ./bahria-home-1-1050w.jpg 1049w"
+                    sizes="(min-width: 640px) 472px, calc(95vw - 62px)"
+                    src="./bahria-home-1-1050w.jpg" alt=""
+                    />
+
                 </motion.div>
             </div>
 

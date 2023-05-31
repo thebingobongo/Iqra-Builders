@@ -91,7 +91,7 @@ const Contact = () => {
             {/* right side */}
             <div className="c-right">
                 <div className="image-container">
-                    <img src="./bahria-homes-3.jpg" alt="" />
+                <img src="./bahria-homes-3.jpg" srcset="./bahria-homes-3-464w.jpg 464w, ./bahria-homes-3.jpg 928w" sizes="464px" alt=""/>
                 </div>
             </div>
 
